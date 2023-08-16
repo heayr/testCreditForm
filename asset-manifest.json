@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testCreditForm/react-gh-pages/static/css/main.eb8fb00b.css",
+    "main.js": "/testCreditForm/react-gh-pages/static/js/main.fde5cb81.js",
+    "index.html": "/testCreditForm/react-gh-pages/index.html",
+    "main.eb8fb00b.css.map": "/testCreditForm/react-gh-pages/static/css/main.eb8fb00b.css.map",
+    "main.fde5cb81.js.map": "/testCreditForm/react-gh-pages/static/js/main.fde5cb81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb8fb00b.css",
+    "static/js/main.fde5cb81.js"
+  ]
+}
